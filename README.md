@@ -13,6 +13,7 @@ Here is how you are going to initialize, test and deploy your application using 
 2. **Test Locally** Test the application locally using ``` sam local start-api ``` 
 
 For the **bravehearts** you can:
+
 3. **Optional** Experiment with AWS Cloud9 IDE features to work with AWS Lambda functions and their related Amazon API Gateway APIs
 
 4. **Package** After testing our application you will create a deployment package (including any depedencies) ``` sam package ```
