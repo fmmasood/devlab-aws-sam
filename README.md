@@ -60,7 +60,9 @@ $ sam --version
 ![SAM Version](images/cloud9_sam_version.png)
 
 
-**Optional Step** If you notice that **SAM CLI** version is not 0.14 or above, update it:
+**Make sure** that you are using latest version of **SAM CLI (0.15 or higher)**. 
+**Update** SAM CLI by executing following script.
+
 
 ```
 $ ./awssamlabhome/prereqs/init.sh 
